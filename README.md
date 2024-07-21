@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yunpeng JIANG.
-- 👀 I’m interested in full-stack development.
-- 🌱 I’m currently a postgraduate student in the Hong Kong University of Science and Technology. My major is Information Technology.
-- 💞️ I got my bachelor degree in Computer Science and Technology in Beijing University of Aeronautics and Astronautics (also known as Beihang University).
+- 🌱 I’m currently a backend developer in JD group. (https://www.jd.com)
+- 💞️ I got my bachelor degree in Computer Science and Technology in Beihang University(BUAA) and got my master degree in Information Technology in The Hong Kong University of Science and Technology(HKUST).
 - 📫 You can contact with me via yjiangdo@connect.ust.hk, 18373519@buaa.edu.cn
 
 <!---
